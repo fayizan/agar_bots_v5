@@ -1,5 +1,8 @@
 # Agar_bots_v5
 Hi there ! I worked hard on this. THIS IS WORKING AGAR.IO BOTS. PLEASE DO NOT SAY YOU MAKE THEM. AGAR WILL PATCH THEM IN 2 DAY SO ENJOY !
+## COPYRIGHT
+**YOU HAVE NOT CREATED THOSE FILES. YOU MAY NOT CREATE A "BOTS COMPANY". YOU DONT OWN IT. IT AN OPEN-SOUCE PROTECTED WHIT THE MIT LICENCE.**
+
 
 ## CAPCHA
   You may register at 2captcha : https://2captcha.com/
@@ -20,7 +23,6 @@ You have only 1 file to open : start.bat
 ### How to change my UUID ?
 
 There is no UUID. It not needed because you are not giving bots to someone else !
-
 
 ## Configuration
 
