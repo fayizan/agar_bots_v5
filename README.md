@@ -16,6 +16,10 @@ Take the file : agar_userscript.js
 Open tampermonkey and past it there.
 Go in AGAR.IO and wait until it load **FULLY**
 
+## Install node modules
+You need to run install.bat
+
+
 ### Start Main Server
 
 You have only 1 file to open : start.bat
