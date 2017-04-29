@@ -8,7 +8,9 @@ Hi there ! I worked hard on this. THIS IS WORKING AGAR.IO BOTS. PLEASE DO NOT SA
   You may register at 2captcha : https://2captcha.com/
   Add 10$ to your account. 
   After tka e your API key there : https://2captcha.com/enterpage
-  Copy it and past it in /config/GeneralCongif.ini
+  Copy it and past it in /worker/MAINBOARD.js
+  
+  
   
 ## Install userscript
 
