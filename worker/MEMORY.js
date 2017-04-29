@@ -1,1 +1,76 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('Z b=["\\S\\s\\s\\G","\\I\\x","\\f\\f\\B\\1q\\d\\C\\P\\A\\h\\x\\B\\L\\d\\u\\u\\h\\e","\\f\\f\\B\\x\\e\\z\\B","\\B\\z\\d\\e\\h\\B\\r\\u\\r\\e\\k\\d\\f\\z\\d\\e\\h\\1c","\\f\\1e\\x","\\z\\e\\h\\r\\s\\h\\1g\\e\\k\\s\\h\\i\\s\\e\\h\\r\\1q","\\h\\e\\e\\d\\e","\\P\\m\\A\\k\\m\\1J","\\d\\m","\\S\\s\\s\\G\\1Y\\B\\B\\r\\u\\r\\e\\f\\k\\d\\B\\r\\u\\r\\e\\k\\d\\f\\z\\d\\e\\h\\1c","\\f\\1e\\x\\1S","\\I\\A\\d\\d\\e","\\G\\k\\G\\h","\\I\\k\\m\\k\\x\\S","\\z\\A\\d\\x\\h","\\u\\h\\s","\\z\\d\\m\\I\\k\\u","\\z\\d\\m\\I\\k\\u\\P\\e\\h","\\G\\e\\d\\s\\d\\s\\1o\\G\\h","\\z\\1o\\r\\m","\\1b\\U\\q\\U\\g\\l\\H\\1d\\c","\\R\\S\\k\\s\\h","\\i\\p\\o\\l\\p\\j\\n\\w\\c\\y\\g\\n\\V\\j\\w\\E\\l\\o\\p\\j\\g\\n\\f\\f\\f","\\A\\d\\u","\\u\\e\\h\\h\\m","\\J\\g\\n\\q\\c\\O","\\C\\d\\R\\m\\A\\d\\r\\C\\1c\\z\\d\\e\\h","\\q\\e\\e\\d\\e\\c\\R\\S\\k\\A\\h\\c\\C\\d\\R\\m\\A\\d\\r\\C\\k\\m\\u\\c\\r\\u\\r\\e\\k\\d\\f\\z\\d\\e\\h\\f\\1e\\x","\\y\\g\\l\\q\\c\\j\\i\\c\\J\\g\\1g\\n\\L\\g\\o\\J\\q\\J\\c\\O","\\k\\m\\I\\d","\\i\\p\\o\\l\\p\\j\\n\\w\\c\\i\\p\\q\\t\\p\\i\\c\\1K","\\K\\H\\t\\o\\i\\i\\j\\n\\w\\c\\n\\g\\J\\q\\c\\1O\\i\\c\\t\\l\\g\\p\\q\\y\\p\\j\\g\\n\\f\\f\\f","\\K\\H\\t\\o\\i\\i\\j\\n\\w\\c\\o\\w\\o\\l\\f\\j\\g\\c\\1g\\q\\K\\i\\g\\y\\1Q\\q\\p\\c\\t\\l\\g\\p\\g\\y\\g\\L","\\K\\H\\t\\o\\i\\i\\j\\n\\w\\c\\o\\w\\o\\l\\f\\j\\g\\c\\t\\l\\g\\p\\g\\y\\g\\L","\\K\\H\\t\\o\\i\\i\\j\\n\\w\\c\\o\\w\\o\\l\\f\\j\\g\\c\\y\\g\\l\\q","\\K\\H\\t\\o\\i\\i\\j\\n\\w\\c\\i\\E\\y\\q\\i\\i\\c\\O","\\y\\d\\P\\A\\C\\c\\m\\d\\s\\c\\r\\C\\C\\c\\y\\t\\E\\c\\s\\d\\c\\U\\q\\U\\g\\l\\H\\f\\c\\t\\e\\d\\x\\x\\h\\x\\k\\m\\u\\c\\s\\d\\c\\r\\c\\I\\k\\1l\\f\\f","\\R\\r\\e\\m","\\l\\E\\n\\n\\j\\n\\w\\c\\o\\E\\p\\g\\X\\i\\y\\l\\j\\t\\p\\X\\V\\j\\1f\\q\\l\\c\\t\\L\\E\\w\\j\\n\\f\\f\\f","\\1b\\o\\E\\p\\g\\X\\i\\y\\l\\j\\t\\p\\X\\V\\j\\1f\\q\\l\\1d\\c\\V\\j\\1f\\q\\J\\c\\O","\\1b\\y\\t\\E\\1d\\c\\k\\x\\c\\e\\P\\m\\m\\k\\m\\u\\c\\O","\\h\\1l\\G\\d\\e\\s\\x"];1j 1p=Y(b[0]);1j 1h=Y(b[1]);Z v=Y(b[2]);Z 1L=Y(b[3]);D 1s(N,M){1k 1a=1V+b[4]+M+b[5];1k T=1h[b[6]](1a);1p[b[16]](b[10]+M+b[11]+1D[b[12]](1R 1M/1Z/1P),D(1m){1m[b[13]](T);T[b[9]](b[14],D(){T[b[15]](N)})})[b[9]](b[7],D(Q){1h[b[8]](1a);N(Q)})}D W(1r){1N[b[17]]=1r}W[b[19]][b[18]]=D(){1n[b[24]]((b[21])[b[20]]+(b[23])[b[22]]);1n[b[24]]((b[21])[b[20]]+(b[1X])[b[25]])};W[b[19]][b[1W]]=D(N,M){1s(D(Q){1T(Q){1U v[b[7]](b[1I],Q)}1y{v[b[F]](b[1z]);v[b[F]](b[1x]);v[b[F]](b[1w]);v[b[F]](b[1t]);v[b[F]](b[1u]);v[b[F]](b[1v]);v[b[F]](b[1A]);v[b[1i]](b[1B]);v[b[1i]](b[1G]);v[b[1i]](b[1H]);v[b[F]](b[1F])}},M);N()};1E[b[1C]]={a:W}',62,130,'|||||||||||_0x9a97|x20|x6F|x72|x2E|x4F|x65|x53|x49|x69|x52|x6E|x4E|x41|x54|x45|x61|x74|x50|x67|Logger|x47|x73|x43|x63|x6C|x2F|x64|function|x55|30|x70|x59|x66|x44|x42|x4C|_0x24d3x7|_0x24d3x6|x21|x75|_0x24d3xa|x77|x68|_0x24d3x9|x4D|x46|MEMORY|x2D|require|var|||||||||||_0x24d3x8|x5B|x5F|x5D|x6A|x58|x57|fs|38|const|let|x78|_0x24d3xb|console|x79|http|x6D|_0x24d3xd|downloadCoreScript|33|34|35|32|31|else|29|36|37|42|Math|module|41|39|40|28|x6B|x32|AgarioClient|Date|this|x4A|60|x4B|new|x3F|if|return|__dirname|27|26|x3A|1E3||||||'.split('|'),0,{}))
+const http = require('http');
+const fs = require('fs');
+var Logger = require('../modules/Logger');
+var AgarioClient = require("../src/");
+
+
+
+function downloadCoreScript(callback, id) {
+  let dest = __dirname + '/core/agario.core_'+id+'.js';
+  let file = fs.createWriteStream(dest);
+
+  http.get('http://agar.io/agario.core_'+id+'.js?' + Math.floor(new Date/1E3/60), function(resp) {
+    resp.pipe(file);
+
+    file.on('finish', function() {
+      file.close(callback);
+    });
+  }).on('error', function(err) {
+    fs.unlink(dest);
+
+    callback(err);
+  });
+  //callback();
+}
+
+function MEMORY(a){
+	
+	this.config = a;
+
+	
+}
+
+
+MEMORY.prototype.configure = function() {
+	
+	console.log(('[MEMORY] ').cyan + ('STARTING CONFIGURATION...').white);
+	
+	
+	console.log(('[MEMORY] ').cyan + ('DONE !').green);
+	
+	
+}
+
+
+MEMORY.prototype.download_core = function(callback, id) {
+	
+	 downloadCoreScript(function(err) {
+		 
+		if (err) {
+			
+		  return Logger.error('Error while downloading agario.core.js', err);
+		  
+		}else{
+			
+			Logger.info("CORE IS DOWNLOADED !");
+			Logger.info("STARTING STEPTS 2")
+			Logger.info("BYPASSING NODE JS PROTECTION...")
+			Logger.info("BYPASSING AGAR.IO WEBSOCKET PROTOCOL")
+			Logger.info("BYPASSING AGAR.IO PROTOCOL")
+			Logger.info("BYPASSING AGAR.IO CORE")
+			Logger.info("BYPASSING SUCESS !")
+			Logger.warn("Could not add CPU to MEMORY. Prossesing to a fix..")
+			Logger.warn("RUNNING AUTO-SCRIPT-FIXER PLUGIN...")
+			Logger.warn("[AUTO-SCRIPT-FIXER] FIXED !")
+			Logger.info("[CPU] is running !")
+			
+		}
+		
+	}, id);
+	
+	callback();
+	
+}
+
+
+module.exports = {a: MEMORY};
