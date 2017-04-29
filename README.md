@@ -18,7 +18,7 @@ Go in AGAR.IO and wait until it load **FULLY**
 
 ## Install node modules
 You need to run install.bat
-
+**You need to take the file "agario.js" and put it in C:/**
 
 ### Start Main Server
 
