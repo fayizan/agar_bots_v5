@@ -4,26 +4,21 @@
   "description": "Agar.io bots v.3 PROTOCOL 13",
   "main": "feeder.js",
   "dependencies": {
-    "agario-client": "latest",
     "assert": "latest",
     "colors": "latest",
     "figlet": "latest",
     "fs": "latest",
     "fs-extra": "latest",
     "https-proxy-agent": "latest",
-    "mock-browser": "^0.92.12",
     "readline": "latest",
-    "sha1": "latest",
-    "sha256": "^0.2.0",
     "socket.io": "latest",
     "socket.io-client": "latest",
     "socks": "latest",
     "ws": "latest",
     "request": "latest",
-	"2captcha": "latest"
-  },
-  "devDependencies": {
-    "crypto-xor": "^1.1.0"
+    "2captcha": "latest",
+    "http": "latest",
+    "xmlhttprequest": "latest"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -41,7 +36,7 @@
   "author": "lefela4",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lefela4/Agar.io-client-v3/issues"
+    "url": "https://github.com/lefela4/agar_bots_v5/issues"
   },
-  "homepage": "https://github.com/lefela4/Agar.io-client-v3#readme"
+  "homepage": "https://github.com/lefela4/agar_bots_v5#readme"
 }
